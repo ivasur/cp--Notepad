@@ -1,0 +1,10 @@
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\bin\Debug\NotepadTutorial.exe.config
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\bin\Debug\NotepadTutorial.exe
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\bin\Debug\NotepadTutorial.pdb
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.csprojAssemblyReference.cache
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.MainNotepadFrm.resources
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.Properties.Resources.resources
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.csproj.GenerateResource.cache
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.csproj.CoreCompileInputs.cache
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.exe
+C:\Users\soori\IVAS\C# Projects\copyNotepad\NotepadTutorial\NotepadTutorial\obj\Debug\NotepadTutorial.pdb
