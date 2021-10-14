@@ -93,6 +93,16 @@ namespace NotepadTutorial.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Custom_Icon_Design_Pretty_Office_8_Text_bold {
+            get {
+                object obj = ResourceManager.GetObject("Custom-Icon-Design-Pretty-Office-8-Text-bold", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Custom_Icon_Design_Pretty_Office_9_Open_file {
             get {
                 object obj = ResourceManager.GetObject("Custom-Icon-Design-Pretty-Office-9-Open-file", resourceCulture);
@@ -126,6 +136,76 @@ namespace NotepadTutorial.Properties {
         internal static System.Drawing.Bitmap Gakuseisean_Ivista_2_Files_New_File {
             get {
                 object obj = ResourceManager.GetObject("Gakuseisean-Ivista-2-Files-New-File", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Arrows_Redo {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Arrows-Redo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Arrows_Undo {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Arrows-Undo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Editing_Italic {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Editing-Italic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Editing_Strikethrough {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Editing-Strikethrough", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Icons8_Windows_8_Editing_Underline {
+            get {
+                object obj = ResourceManager.GetObject("Icons8-Windows-8-Editing-Underline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Iconsmind_Outline_Normal_Text {
+            get {
+                object obj = ResourceManager.GetObject("Iconsmind-Outline-Normal-Text", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Oxygen_Icons_org_Oxygen_Apps_preferences_system_time {
+            get {
+                object obj = ResourceManager.GetObject("Oxygen-Icons.org-Oxygen-Apps-preferences-system-time", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
